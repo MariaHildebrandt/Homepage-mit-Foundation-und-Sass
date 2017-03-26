@@ -1,13 +1,11 @@
 {
-  "name": "foundation-sites-template",
+  "name": "Homepage-mit-Foundation-und-Sass",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "MariaHildebrandt <hildebrandt.maria@googlemail.com>"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Homepage für Cloud-Storage und Backup Anbieter.",
   "main": "index.html",
-  "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
   "dependencies": {
     "foundation-sites": "~6.3.0",
     "motion-ui": "~1.2.2"
