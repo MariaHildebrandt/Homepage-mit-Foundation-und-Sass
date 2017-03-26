@@ -29,7 +29,9 @@ npm install
 bower install
 ```
 
-3. `npm start` für Sass compiler
+3. `npm start` 
+für Sass compiler
+http://127.0.0.1:3000/
 
 ### Screenshots
 
