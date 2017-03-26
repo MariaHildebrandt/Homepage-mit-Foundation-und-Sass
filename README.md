@@ -7,6 +7,7 @@ Homepage für Cloud-Storage und Backup Anbieter
 - [Font Awesome](http://fontawesome.io/)
 - [NodeJS](https://nodejs.org/en/) 
 - [Lizenzfreie Bilder von Pexels.com](https://nodejs.org/en/) 
+- [Google Fonts](https://fonts.google.com/)
 
 ## Voraussetzungen
 
