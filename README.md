@@ -34,8 +34,6 @@ bower install
 ### Screenshots
 
 <p>Home, Features, Modelle</p>
-<p align="left">
-  <img src="https://s19.postimg.org/wkf0zce1v/home.png" width="280"/>
-  <img src="https://s19.postimg.org/72wmfqwbn/features.png" width="280"/>
-  <img src="https://s19.postimg.org/jk7vgngv7/modelle.png" width="280"/>
-</p>
+[![home.png](https://s19.postimg.org/wkf0zce1v/home.png)](https://postimg.org/image/c0a70uyan/)
+[![features.png](https://s19.postimg.org/72wmfqwbn/features.png)](https://postimg.org/image/97gzgtxy7/)
+[![modelle.png](https://s19.postimg.org/jk7vgngv7/modelle.png)](https://postimg.org/image/6stpa5733/)
