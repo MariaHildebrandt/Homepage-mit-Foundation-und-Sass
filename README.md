@@ -6,6 +6,7 @@ Homepage für Cloud-Storage und Backup Anbieter
 - [Sass](http://foundation.zurb.com/sites/docs/v/5.5.3/sass.html)
 - [Font Awesome](http://fontawesome.io/)
 - [NodeJS](https://nodejs.org/en/) 
+- [Lizenzfreie Bilder von Pexels.com](https://nodejs.org/en/) 
 
 ## Voraussetzungen
 
@@ -29,3 +30,12 @@ bower install
 ```
 
 3. `npm start` für Sass compiler
+
+### Screenshots
+
+<p>Home, Features, Modelle</p>
+<p align="left">
+  <img src="https://s19.postimg.org/wkf0zce1v/home.png" width="280"/>
+  <img src="https://s19.postimg.org/72wmfqwbn/features.png" width="280"/>
+  <img src="https://s19.postimg.org/jk7vgngv7/modelle.png" width="280"/>
+</p>
