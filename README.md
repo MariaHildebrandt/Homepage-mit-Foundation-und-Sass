@@ -1,4 +1,4 @@
-# Homepage-mit-Foundation-und-Sass
+# Homepage mit Foundation und Sass
 Homepage für Cloud-Storage und Backup Anbieter 
 
 ## Verwendet
@@ -33,11 +33,15 @@ bower install
 
 ### Screenshots
 
-<p>Vollansicht:</p>
-<p>[Home](https://postimg.org/image/97gzgtxy7/)</p>
-<p>[Features](https://postimg.org/image/97gzgtxy7/)</p>
-<p>[Modelle](https://postimg.org/image/97gzgtxy7/)</p>
+#### Vollansicht:
+<p>
+  <a href="https://postimg.org/image/c0a70uyan/">Home</a>,
+  <a href="https://postimg.org/image/97gzgtxy7/">Features</a>,
+  <a href="https://postimg.org/image/6stpa5733/">Modelle</a>
+</p>
 
+
+#### Vorschau
 <p align="left">
   <img src="https://s19.postimg.org/wkf0zce1v/home.png"/  width="280">
   <img src="https://s19.postimg.org/72wmfqwbn/features.png"/  width="280">
