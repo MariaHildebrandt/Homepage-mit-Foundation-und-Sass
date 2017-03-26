@@ -41,7 +41,7 @@ bower install
 </p>
 
 
-#### Vorschau
+#### Vorschau:
 <p align="left">
   <img src="https://s19.postimg.org/wkf0zce1v/home.png"/  width="280">
   <img src="https://s19.postimg.org/72wmfqwbn/features.png"/  width="280">
