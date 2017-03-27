@@ -1,7 +1,7 @@
 {
-  "name": "Homepage-mit-Foundation-und-Sass",
+  "name": "foundation-sites-template",
   "version": "1.0.0",
-  "description": "Homepage für Cloud-Storage und Backup Anbieter.",
+  "description": "Basic template for a new Foundation for Sites project.",
   "main": "gulpfile.js",
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -15,9 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MariaHildebrandt/Homepage-mit-Foundation-und-Sass"
+    "url": "https://github.com/zurb/foundation-sites-template.git"
   },
-  "author": "MariaHildebrandt <hildebrandt.maria@googlemail.com>",
+  "bugs": {
+    "url": "https://github.com/zurb/foundation-sites/issues",
+    "email": "foundation@zurb.com"
+  },
+  "author": "ZURB <foundation@zurb.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "gulp-autoprefixer": "^3.1.0"
