@@ -1,5 +1,6 @@
 # Website für Cloud Anbieter
-Website für Cloud-Storage- und Backup Anbieter, Sceenshots vorhanden
+Website für Cloud-Storage- und Backup Anbieter, Sceenshots vorhanden.
+Foundation, Sass, Node.js, Font Awesome, Google Fonts
 
 ## Verwendet
 - [Foundation](http://foundation.zurb.com/)
