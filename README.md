@@ -31,7 +31,7 @@ bower install
 ```
 
 3. `npm start` 
-- um Sass compiler zu starten
+
 - 'projectname' auf Default-Port: 3000 bzw: http://127.0.0.1:3000/
 
 ## Screenshots
