@@ -20,7 +20,7 @@ Website für Cloud-Storage- und Backup Anbieter, Sceenshots vorhanden
 1.Download mit Git:
 
 ```bash
-git clone https://github.com/MariaHildebrandt/Website-mit-Foundation-und-Sass
+git clone https://github.com/MariaHildebrandt/Website-fuer-Cloud-Anbieter projectname
 ```
 2.Ordner in command line öffnen und dependencies installieren:
 
