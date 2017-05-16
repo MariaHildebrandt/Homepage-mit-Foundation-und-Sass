@@ -1,5 +1,5 @@
-# Homepage mit Foundation und Sass
-Homepage für Cloud-Storage und Backup Anbieter 
+# Website mit Foundation und Sass
+Website für Cloud-Storage und Backup Anbieter, Sceenshots vorhanden
 
 ## Verwendet
 - [Foundation](http://foundation.zurb.com/)
@@ -20,7 +20,7 @@ Homepage für Cloud-Storage und Backup Anbieter
 1.Download mit Git:
 
 ```bash
-git clone https://github.com/MariaHildebrandt/Homepage-mit-Foundation-und-Sass projectname
+git clone https://github.com/MariaHildebrandt/Website-mit-Foundation-und-Sass
 ```
 2.Ordner in command line öffnen und dependencies installieren:
 
