@@ -1,5 +1,5 @@
-# Website mit Foundation und Sass
-Website für Cloud-Storage und Backup Anbieter, Sceenshots vorhanden
+# Website für Cloud Anbieter
+Website für Cloud-Storage- und Backup Anbieter, Sceenshots vorhanden
 
 ## Verwendet
 - [Foundation](http://foundation.zurb.com/)
